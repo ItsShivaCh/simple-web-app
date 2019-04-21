@@ -14,4 +14,4 @@ Simple Steps to Run the application using Docker
         $docker run -d -p 5000:5000 webapp_flask
 
 
-There you go ... Your First Dockerized Application Up & Running !!!!!!! :) 
+There you go ... Your First Dockerized Application is Up & Running !!!!!!! :) 
