@@ -2,7 +2,8 @@
 Its a Simple Python based web app using Docker
 
 Simple Steps to Run the application using Docker
-   i)Clone the Code to your machine
+  
+  i)Clone the Code to your machine
 
    ii)Build the Image using Docker
         
